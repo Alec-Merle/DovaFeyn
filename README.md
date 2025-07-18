@@ -4,7 +4,7 @@
 
 ---
 
-## Executive Summary
+## Abstract
 
 **DovaFeyn** is a next-generation AI platform that redefines business intelligence through modularity and specialization. Designed to model decision-making across complex systems, the DovaFeyn Framework enables the creation of collaborative, department-specific AI agents ("nodes") that operate as a distributed network of expertise. Each node embodies a unique functional viewpoint—engineering, finance, operations, legal, or any custom domain—and can be deployed independently, integrated into existing tools, or used collectively for dynamic consensus reasoning. 
 
