@@ -1,4 +1,4 @@
-# DovaFeyn - The 10x Business Software
+# DovaFeyn - The 10x Intelligence Network
 
 ## A Modular, Multi-Agent Language Model Architecture for Business Simulation and Decision Support
 
