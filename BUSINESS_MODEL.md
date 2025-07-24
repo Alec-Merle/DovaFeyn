@@ -180,4 +180,6 @@ DovaFeyn is an AI platform where **modular agents (“nodes”)**—each trained
 
 ---
 
-**Let me know if you want a full financial spreadsheet, pitch deck, or detailed user growth projections.**
+© 2025 DovaFeyn LLC. All rights reserved.  
+DovaFeyn™ and associated systems are trademarks of DovaFeyn LLC.  
+Unauthorized reproduction, distribution, or modification of any part of this document or the associated software is strictly prohibited without express written permission.
